@@ -11,7 +11,9 @@
 
 The code is under preparation and will be released soon. Please stay tuned!
 
-
+We release the two CLIP models we trained for X-ray and Skin Lesion images on huggingface.
+* **WhyXrayCLIP** 🩻 : https://huggingface.co/yyupenn/whyxrayclip
+* **WhyLesionCLIP** 👍🏽 : https://huggingface.co/yyupenn/whylesionclip
 
 ```bibtex
 @article{yang2024textbook,
