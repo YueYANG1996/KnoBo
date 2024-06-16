@@ -1,0 +1,200 @@
+Is there lung collapse?
+Is there a change in lung density?
+Are there signs of lung opacification?
+Is there an elevated unilateral or bilateral hemidiaphragm?
+Is there any sign of hyper-lucency in the lungs?
+Has a perihilar mass been detected?
+Is there appearance of alveolar opacities?
+Is there presence of pleural effusions or thickening?
+Is the cardiothoracic ratio larger than 0.5?
+Is pulmonary edema visible on the X-ray?
+Is there right-sided infiltrate?
+Is there evidence of aortic enlargement or coarctation?
+Is there pulmonary vascular congestion?
+Is the pulmonary hilum shadow abnormal on the chest X-ray?
+Is there a loss of alveolar aeration on a specific lung area on the chest X-ray?
+Is there any sign of parenchymal involvement noted on the chest X-ray?
+Are there infiltrates on lung fields?
+Are there patchy infiltrate shadows or interstitial changes noticeable?
+Is there a presence of septal lines?
+Is there evidence of alveolar edema?
+Are there findings of atelectasis?
+Is there evidence of a lung mass?
+Is there a presence of pneumothorax?
+Are cardiomegaly signs visible?
+Is there increased interstitial density?
+Are bronchi unusually dilated or thickened?
+Are there diffuse, predominantly peripheral irregular and reticular opacities?
+Are hila prominent bilaterally?
+Do the lungs show signs of hyperinflation?
+Is there evidence of volume loss?
+Is there an appearance of pulmonary parenchymal fibrosis on the X-ray?
+Are there signs of acute infection in the lung parenchyma or the interstitial parts?
+Does the chest X-ray show consolidation?
+Do the images show any evidence of lower respiratory tract infections?
+Does the chest X-ray show new infiltrates consistent with acute pulmonary parenchymal disease?
+Are bilateral infiltrates or four quadrants of consolidation present in the chest X-ray?
+Does the chest X-ray demonstrate peripheral ground glass opacities (GGO) affecting the lower lobes?
+Does the chest X-ray reveal patchy alveolar opacities occuring bilaterally in the basilar lung fields?
+Is there evidence of consolidation within the irradiated lung field on the chest X-ray?
+Does the chest X-ray present an image of consolidation or pleural effusion?
+Is there an enlargement of the upper mediastinum?
+Is there an enlargement in the cardiac silhouette?
+Are there signs of mediastinal widening?
+Is there an enlarged pulmonary trunk?
+Is the ascending aorta outside the upper-right cardiac silhouette?
+Is there mediastinal shift?
+Is there evidence of ground-glass opacity?
+Are abnormalities observed in the subpleural region?
+Is the lung appearance normal?
+Are there any visible image abnormalities?
+Is there any indication of unilateral or bilateral elevated hemidiaphragms on the X-ray?
+Is there any indication of fluid accumulation in the pleural space?
+Does the chest X-ray reveal the presence of nodules in the pleural space?
+Is there an increase in the volume of the lungs as appearing on the chest X-ray?
+Can you see peribronchovascular opacities?
+Are there reticular opacities present?
+Can you identify nodular opacity?
+Is there reticulonodular infiltration?
+Does the X-ray show asymmetrical lung involvement?
+Are there any distinct consolidations visible?
+Are any areas of hazy opacity present?
+Does the mediastinum show a right shift?
+Are there bilateral opacities on the chest x-ray not fully explained by effusions, lobar or lung collapse, or nodules?
+Does the mediastinum show a deviation to the left or right?
+Does the chest x-ray display bilateral infiltrates?
+Are there diffuse high-density shadows visible?
+Can ground glass like changes be observed?
+Is an abnormal chest X-ray evident?
+Can a high-density shadow be detected?
+Can mass-like densities be identified in the chest?
+Is there any sign of fibrotic changes?
+Are cavitary changes visible in the lung field?
+Are there any indications of bilateral thickening of lung markings?
+Can large dense shadows of uniform density be seen?
+Does the chest X-ray show an increase in the lung field's density?
+Is there complete or partial opacification of the lung?
+Is there opacification of less than 25% in one or both lungs?
+Are there bilateral diffuse ground glass opacities?
+Are there signs of reticular shadows?
+Is there unilateral diaphragm elevation?
+Is the elevation of both diaphragms less severe than one side?
+Is there an asymmetrical elevation of the hemidiaphragm?
+Are there changes in lung opacities?
+Is there a loss of the sharp silhouette of the hemidiaphragm?
+Is there a shift in the mediastinum, hilum, or hemidiaphragm?
+Is there an air-fluid level visible on the chest X-ray?
+Is there an irregular diaphragmatic outline?
+Is there significant increase in vascular markings?
+Is there hyper-lucency suggesting air trapping in the lungs?
+Are there signs of a consolidative lesion with high internal attenuation and bubble lucency?
+Is there any indication of a chest X-ray suggestive of lung cancer?
+Does the chest X-ray reveal normal radiologic appearance of lungs?
+Is there a notable perihilar mass?
+Are there any ground-glass opacities in perihilar areas?
+Are there dense, mass-like consolidative opacities in the perihilar zone?
+Are constellations of bilateral interstitial infiltrates observed?
+Is there an enlargement of the right hilum?
+Are there findings of mediastinal or perihilar lymph nodes enlargement?
+Is there perihilar linear streaking?
+Does the chest X-ray show any mediastinal widening due to lymph node enlargement?
+Is there an opacity around the perihilar zone?
+Do the alveolar opacities predominantly appear in the lower lobe?
+Are there multiple patchy opacities displayed on the Chest X-ray?
+Are there new alveolar or interstitial infiltrates?
+Does the Chest X-ray shows bilateral and diffuse alveolar interstitial opacities in both pulmonary fields?
+Are alveolar condensations present?
+Are there para-hilar bilateral alveolar opacities with air-bronchogram?
+Is there any presence of increased density within a specific lobe?
+Are there no alveolar opacities?
+Are there asymmetrical, ground glass opacities?
+Is there presence of fluid in the pleural cavity?
+Are there signs of a subpleural thickening?
+Is there evidence of a bilateral pleural effusion?
+Is there an opacity that is not in the gravity dependent location?
+Is there evidence of a right-sided pleural effusion surrounded by thickened pleural wall?
+Are there any abnormal findings easily detected on the chest X-ray?
+Does the radiograph show any large transverse dimension of the heart?
+Is the cardiothoracic ratio greater than 0.55?
+Is there a sign of vascular redistribution to the upper lobes?
+Are there bilateral opacities with central distribution visible?
+Are there signs of pleural fluid accumulation?
+Can you observe enlargement of hilar structures?
+Are there diffuse bilateral interstitial and alveolar densities visible?
+Can ground glass opacities be seen in the chest X-ray?
+Are there changes in chest X-ray appearance that develop slowly?
+Is there a prominent pulmonary artery visible?
+Are there visible signs of focal peripheral hyperlucency?
+Can you see small areas of consolidation in the X-ray?
+Is there diffuse bilateral infiltration?
+Is there increased density in any part of the lung?
+Has there been any progression in the infiltrate?
+Are there any subcutaneous emphysema?
+Is any part of the lung field showing pleural effusion or pneumomediastinum?
+Is there any sign of pleural thickening?
+Are there infiltrates on only one side of the lung?
+Is there any visible change in lung conditions over time?
+Can a rib notching be seen?
+Is there an enlarged cardiac silhouette?
+Is there evidence of upper lobe vascular redistribution?
+Are there signs of pulmonary venous congestion?
+Is there visible distension of the upper pulmonary veins?
+Is there a presence of septal lines in the lower lung?
+Are hilar structures enlarged?
+Does the chest X-ray reveal a very prominent pulmonary vascular pattern extending to the periphery of the lungs?
+Is there evidence of pulmonary vascular dilatation extending from hilum to the periphery of the lung?
+Can pulmonary vessels be visibly redistributed into the upper lung fields?
+Does the chest X-ray show abnormal pulmonary hilum shadows?
+Could there be an increased texture visible in the chest X-ray?
+Is the pulmonary hilum shadow bilateral or unilateral?
+Is there evidence of pleural effusion visible in the chest X-ray?
+Are both lobes of the lungs involved in the abnormal shadow?
+Does the chest X-ray show an exacerbated reticular shadow in the lower lung fields?
+Is there pulmonary congestion visible on the chest X-ray?
+Is there a difference in aeration between the lungs?
+Is there an abnormal appearance in chest Xrays of patients receiving mechanical ventilatory support?
+Is there a well-defined site of lung consolidation?
+Are there diffuse opacities visible in both lungs?
+Is the chest X-ray normal?
+Does the chest X-ray show signs of central pulmonary arterial dilation?
+Is there increased bronchovascular markings noted on the chest X-ray?
+Does the chest X-ray show bronchial wall thickening?
+Is there a presence of cavitations within parenchymal lesions as shown on the chest X-ray?
+Does the chest X-ray suggest peribronchial thickening?
+Is there a presence of diffuse parenchymal involvement on the chest X-ray?
+Do the lung fields exhibit consolidations on the chest X-ray?
+Are nodular infiltrates visible on the chest X-ray?
+Is there an increase in the overall density of the lung fields in the chest X-ray?
+Are there abnormal infiltrates in the lung fields on the chest X-ray?
+Does the chest X-ray show evidence of fibrosis in the lung fields?
+Is there evidence of ground-glass manifestations?
+Do the lungs show small patchy shadows?
+Are multiple patchy shadows visible in both lungs?
+Does the X-ray show visible signs of interstitial pneumonia?
+Is there ground glass opacity in both lung fields?
+Is there interlobular septal thickening?
+Are there air spaces in the cardiac border?
+Are there opacities in peripheral, bilateral, subpleural, multifocal, posterior, basal and medial regions?
+Is there air space consolidation?
+Is bronchovascular thickening present?
+Is there a presence of inter- or intra-lobular septal thickening?
+Is there a presence of persistent pulmonary infiltrate?
+Is there a reduction in lung transparency?
+Are there areas of high density observed in the lungs?
+Is there evidence of bilateral pulmonary edema?
+Can diffuse bilateral pulmonary edema be observed?
+Are interstitial infiltrates present in the lungs?
+Can increased cardiothoracic ratios be identified?
+Can radiographic opacities consistent with an alveolar filling process be detected?
+Is there evidence of blurred ila and perivascular or peribronchial cuffs?
+Are there any signs of parenchymal anomalies?
+Are there primary opacities observed?
+Is there an indication of a mediastinal mass?
+Are there any signs of chest infection?
+Are there any signs of heart failure?
+Is there evidence of elevated hilar structures?
+Is there evidence of pneumothorax in the left lung?
+Are there abnormal masses visible in the lungs?
+Are there any visible signs of mediastinal adenopathy?
+Can any opacity be identified in the lungs?
+Is there an apical pleural stripe visible?

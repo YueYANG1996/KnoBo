@@ -1,0 +1,7 @@
+torch
+transformers
+torchxrayvision
+clip
+open_clip_torch
+wandb
+scikit-learn

@@ -1,0 +1,200 @@
+Is the lesion relatively large?
+Does the lesion appear atypical?
+Does the lesion have border irregularity?
+Does the lesion exhibit color variation?
+Is the diameter of the lesion large?
+Does the lesion appear stuck on?
+Is the lesion symmetric?
+Does the lesion have a uniform color?
+Is the lesion border clear-cut?
+Does the lesion appear as a well-demarcated papule or plaque?
+Does the lesion appear as a hyperkeratotic, scaly plaque?
+Does the lesion present with a pearly, telangiectatic border?
+Does the lesion present with rolled edges and central ulceration?
+Is the skin lesion sharply defined?
+Is the lesion an elevated plaque or a diffuse infiltration?
+Is the lesion well-delineated and round to oval?
+Does the lesion have irregular pigmentation?
+Does the lesion have irregular borders?
+Is there variegation of color within the lesion?
+Is the lesion raised above the surface of the skin?
+Does the lesion have a color different from the surrounding skin?
+Are there surface elevations and irregularities on the lesion?
+Is the lesion raised and discolored?
+Does the lesion have a waxy appearance?
+Are there multiple lesions?
+Does the lesion exhibit irregular pigment?
+Does the lesion show changes in size, shape, color, contour, or surface?
+Are there irregular and sometimes notched borders in the lesion?
+Does the lesion appear without any clinical pigmentation?
+Does the lesion present as ulcerated with irregular margins?
+Does the lesion resemble a wart?
+Is there a variation in size among the lesions?
+Can the lesion be characterized as either focal, multifocal, or diffuse in nature?
+Is the lesion located on an extensor surface?
+Does the lesion display color variations from light brown to black?
+Is the lesion smooth, nodular, or leathery?
+Does the lesion have smaller macules and papules?
+Is the lesion associated with dark, coarse hair?
+Is the lesion between 1.5 cm and 11 cm in diameter?
+Does the lesion show black and brown hues?
+Does the lesion show signs of symmetric shape?
+Does the lesion show spots of hyperpigmentation?
+Is the lesion larger than 6mm in diameter?
+Is the color of the lesion varied or uneven?
+Is the lesion asymmetric?
+Is the lesion firm and yellow in color?
+Is the lesion papulonodular in appearance?
+Is the lesion's color red or red-brown?
+Is the skin lesion brown or black-colored?
+Is the lesion pearly or flesh-colored?
+Is the lesion surrounded by erythema?
+Do the lesions have a wide range of colors?
+Is the diameter of the lesion less than 1cm?
+Does the lesion have a rounded surface?
+Is the lesion larger than 5mm and solid?
+Is the lesion color predominantly golden-brown?
+Is the lesion erythematous?
+Does the lesion have enlarged or altered hair follicles?
+Has the lesion resulted in changes to the skin color or texture in or around its area?
+Is the lesion well-demarcated?
+Does the lesion have a red color?
+Is the scaly plaque on a sun-exposed area?
+Does the lesion demonstrate varying degrees of edema, erythema, scaliness?
+Are there thick keratotic crusts or scaly plaques present?
+Does the lesion have a pearly appearance?
+Does the lesion have telangiectatic vessels on its surface?
+Is there any central crust present in the lesion?
+Is there any ulceration in the lesion?
+Does the lesion resemble a scar?
+Is the border of the lesion indistinct?
+Does the lesion present a rim of erythematous induration?
+Are there multiple or solitary lesions present?
+Is the lesion hypopigmented?
+Has any elevation or thickness been observed in the lesion?
+Is the lesion round or oval?
+Does the lesion have a fine central scale?
+Does the lesion have irregular margins?
+Is the pigmented lesion showing varying degrees of depigmentation?
+Is the skin lesion flat and uniformly brown in color?
+Is the lesion ring-shaped?
+Does the lesion appear to stay within the boundaries of the initial wound?
+Is the lesion erythematous and nodular?
+Is the lesion elevated?
+Is the lesion's surface irregular?
+Is there discoloration around the lesion?
+Is the lesion raised?
+Does the lesion have a purplish discoloration?
+Does the lesion present with reddish-violaceous discoloration?
+Is the lesion shiny?
+Is the lesion pigmented?
+Does the discoloration of the skin lesion appear to be black, dark brown, or bluish?
+Does the erosion of the skin lesion appear moist?
+Does the lesion appear waxy?
+Does the lesion appear as a well-circumscribed lesion in the image?
+Is the lesion hemorrhagic?
+Are there multiple lesions on the skin?
+Are the lesions nodular?
+Do the lesions have an erythematous nature?
+Are there multiple disseminated skin lesions?
+Is the lesion exhibiting multicolor shades?
+Is there any irregularity in the lesion's surface contour?
+Is the lesion's surface elevating?
+Is the lesion larger than 5mm?
+Does the lesion appear dry?
+Is the lesion surrounded by uneven and asymmetric margins?
+Is there erosion or ulceration on the nodule of the lesion?
+Does the lesion appear as an ulcerated mass?
+Are there multiple warts present on the lesion?
+Does the lesion have a smooth or rough surface?
+Is the lesion flat-topped with a smooth surface and light brown color?
+Does the lesion appear as an isolated mass?
+Is the lesion diffuse and scattered in nature?
+Does the lesion involve localized blood vessels of the skin?
+Is there a change in the skin pigmentation?
+Is the lesion located on the extensor surface of extremities?
+Is the lesion changing in color?
+Does the lesion appear black or blue?
+Is the skin lesion crusted or nodular in appearance?
+Is the skin lesion ulcerative?
+Does the skin appear erythematous over the lesion?
+Are the lesions flat?
+Are the papules or plaques pale pink in color?
+Is the skin lesion associated with dark pigmentation?
+Is the lesion characterised by a coarse appearance?
+Does the skin lesion appear within hair follicles?
+Does the lesion exhibit dark-brown pigmentation?
+Is there a bluish hue to the lesion?
+Does the lesion appear red and tense?
+Does the lesion have black components centrally?
+Is the lesion yellowish-brown in color?
+Are the edges of the lesion irregular?
+Does the lesion have a growth or mass appearance?
+Does the lesion show signs of erythema (redness)?
+Is there a crust formation over the lesion?
+Is the lesion evenly distributed around the axis?
+Does the lesion appear to be scaling?
+Does the lesion include patches of increased coloring?
+Can you spot dark brown areas on the skin, particularly in the sun-exposed areas?
+In the area of the lesion, does the skin appear lighter or darker than the surrounding skin?
+Is there noticeable darkening of skin color in the area of the lesion?
+Is the lesion translucent and pink in color?
+Does the lesion have discernible margins?
+Does the lesion appear to have uneven color distribution?
+Is the lesion isolated or part of a clustered formation?
+Does the lesion have defined borders?
+Is there a presence of punctate, or point-like, formations within or around the lesion?
+Is the lesion yellow in color?
+Does the lesion have a rough texture?
+Does the lesion contain atrophic changes?
+Is the lesion ulcerated?
+Is the lesion dome-shaped?
+Is the skin around the lesion uniformly distributed or concentrated in certain areas like palms or soles?
+Is the lesion oval in shape?
+Does the lesion range in color from red to brown?
+Is the lesion red to red-blue in color?
+Does the lesion appear as a ring or arc and vary from skin-colored to brown?
+Is the lesion flat and slightly elevated?
+Does the lesion exhibit an erythematous or flesh-colored appearance?
+Is the lesion showing signs of inflammation?
+Are there any hyper-and hypopigmentation signs?
+Does the lesion have a nodular involvement?
+Does the lesion have a flat or rounded surface?
+Is the skin around the lesion displaying characteristics similar to orange peel?
+Is the lesion solid?
+Does the lesion have a golden yellow color?
+Is there a large amount of pigment in the lesion?
+Are there pigment accumulations concentration in certain areas of the lesion?
+Does the lesion have a large quantity with little inflammation?
+Has the skin texture around the lesion become rough or raised?
+Does the lesion appear red, tan, or purple in color?
+Does the lesion present a nodular form?
+Does the lesion have verrucous growths?
+Are there any irregular borders present on the lesion?
+Is the lesion hyperpigmented?
+Does the lesion appear as a hyperkeratotic, crusted, and somewhat eroded plaque?
+Does the lesion present with erythema?
+Is there erythema and edema of the skin present?
+Is there evidence of skin necrosis?
+Are there paper-like thin crusts present instead of thick amber crusts?
+Are lesions multiple and scattered across the skin?
+Are any mysterious dark spots or discoloration evident on the skin lesion's surface?
+Are there any red and white patches in the lesion?
+Does the lesion appear to be atrophic (thin or wasted away)?
+Is the skin lesion violaceous (purple in color)?
+Does the lesion show an indistinct feathery border?
+Do the lesions have hazy and indistinct borders?
+Do the cells in the lesion have indistinct borders?
+Does the lesion present an erythematous rim?
+Is the lesion characterized by an erythematous indurated plaque?
+Is the lesion visibly streaked?
+Is the lesion solitary or multiple?
+Is there a slight bluish discoloration in the lesion?
+Is the lesion smooth and round bordered?
+Is the lesion singular or part of multiple related lesions?
+Is there vascular malformation at the affected area?
+Is the lesion multilocular, with multiple distinct 'regions' observed within it?
+Are there several lesions observable from the imaging?
+Does the lesion appear elevated, with a noticeable rise above the skin surface?
+Is the margin of the lesion smooth?
+Does the skin lesion appear reddish to purple in color?

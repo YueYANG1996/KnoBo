@@ -1,0 +1,200 @@
+Is the border of the lesion irregular?
+Is the color of the lesion homogeneous or variegated?
+Is the diameter of the lesion greater than 6mm?
+Is the texture of the lesion scaly?
+Is there a change in the size of the lesion over time?
+Does the lesion have a shiny or pearly appearance?
+Is there any bleeding or oozing from the lesion?
+Does the lesion appear raised or elevated from the skin?
+Is there any pain or itching associated with the lesion?
+Is there any surrounding redness or inflammation around the lesion?
+Does the lesion have a brown or black streak|s underneath fingernail or toenail?
+Does the lesion show a blue or blue-grey area?
+Are there small, flat or raised bumps within the lesion?
+Is the lesion larger or smaller compared to previous images?
+Does the lesion have irregular borders?
+Does the lesion have varying colors within it?
+Is the diameter of the lesion larger than 6mm?
+Is the lesion evolving in size, shape or color?
+Is there any sign of redness or swelling around the lesion?
+Does the skin around the lesion appear shiny or glossy?
+Does the lesion appear elevated or raised from the skin?
+Is the lesion bleeding or oozing any kind of fluid?
+Is there a visible change in the texture of the skin lesion?
+Does the lesion have a distinct, different color from the surrounding skin?
+Does the lesion have irregular borders?
+Does the lesion have uneven color or multiple colors?
+Is the lesion larger than 6mm in diameter?
+Does the lesion appear to be changing in size, shape, or color over time?
+Does the lesion appear elevated or raised from the skin?
+Does the lesion have a shiny or pearly appearance?
+Is there any bleeding or oozing from the lesion?
+Does the lesion show signs of inflammation or redness?
+Is there a visible change in the skin texture around the lesion?
+Does the lesion have a bluish-black or dark spot?
+Does the lesion show variegated colors?
+Is there a change in the size of the lesion over time?
+Does the lesion have irregular borders?
+Is the lesion larger than 6mm in diameter?
+Are there satellite moles around the lesion?
+Is the lesion elevated or raised from the skin?
+Is the skin on the surface of the lesion scaly?
+Does the lesion appear shiny or pearly?
+Is the lesion bleeding or oozing?
+Is the lesion multicolored with shades of black, brown, white, red, or blue?
+Does the lesion have a star-like pattern?
+Is there any inflammation around the lesion?
+Is there any change in the sensation of the lesion, such as itching or pain?
+Is the lesion hard and immovable?
+Does the skin around the lesion appear swollen or red?
+Is the lesion larger than 6mm in diameter?
+Has the lesion evolved or changed in shape, size or color?
+Does the lesion have irregular borders?
+Is there a varied coloring within the lesion?
+Does the lesion display erythema (redness)?
+Is there a bluish-black or pearly appearance of the lesion?
+Is there a glossy or shiny appearance on the surface of the lesion?
+Are there satellite lesions (small lesions around the main one)?
+Is there a loss of architecture or atypical patterning?
+Is the lesion located in an area of previous injury or sun damage?
+Does the lesion have a rough or scaly texture?
+Does the lesion have irregular borders?
+Is there a change in color across the lesion's surface?
+Is the lesion larger than 6mm in diameter?
+Is the lesion evolving in size, shape, or color?
+Does the lesion have an odd or asymmetric shape?
+Are there redness or swelling beyond the edge of the mole?
+Are there signs of skin breakdown or oozing of fluid from the lesion?
+Is there a rough or scaly texture to the lesion?
+Does the lesion have more than one color or shade?
+Does the lesion appear shinier than surrounding skin?
+Is there a visible loss of skin structure at the site of lesion?
+Is the growth of the lesion rapid over a period of weeks or months?
+Is there a noticeable difference in surface pattern compared to adjoining skin?
+Is the lesion not parallel with the skin plane?
+Is the lesion's color not consistent all around?
+Does the lesion have irregular borders?
+Is the color of the lesion not uniform?
+Does the lesion have a diameter greater than 6mm?
+Are there changes to the skin surrounding the lesion?
+Does the lesion appear raised or elevated?
+Has the size of the lesion changed over time?
+Does the lesion have a rough texture?
+Are there black, blue, or dark brown areas in the lesion?
+Is the lesion bleeding or oozing?
+Are there multiple shades of brown or black in the lesion?
+Is there a loss of skin structure within the lesion?
+Is the area around the lesion red or inflamed?
+Does the lesion itch or cause pain?
+Are there satellite lesions around the main lesion?
+Is the lesion shiny or glossy in appearance?
+Is the border of the lesion irregular?
+Does the lesion have varying colors?
+Is the size of the lesion greater than 6mm in diameter?
+Is the texture of the lesion rough or smooth?
+Does the lesion appear to be evolving or changing over time?
+Are there red, white, or blue tones within the lesion?
+Is there any sign of swelling or inflammation around the lesion?
+Are there any visible blood vessels within or around the lesion?
+Does the lesion appear shiny or glossy?
+Is the skin around the lesion dry or flaky?
+Does the lesion have irregular borders?
+Is the color of the lesion unevenly distributed?
+Is there any change in the size of the lesion over time?
+Is the lesion larger than 6mm in diameter?
+Does the lesion have a reddish or pink hue?
+Does the lesion itch or cause irritation?
+Is there noticeable skin elevation around the lesion?
+Does the lesion bleed easily?
+Is there loss of skin architecture in the lesion area?
+Does the lesion have a blue-black coloration?
+Does the lesion appear shiny or glossy?
+Is there presence of a halo around the lesion?
+Is the texture of the lesion rough or scaly?
+Does the lesion have irregular borders?
+Is the color of the lesion uneven?
+Does the size of the lesion exceed 6mm in diameter?
+Does the lesion appear to be evolving or changing over time?
+Does the lesion have a rough or scaly texture?
+Is the lesion inflamed or red around the edges?
+Does the lesion appear elevated or raised from the skin?
+Are there multiple shades of pigment within the lesion?
+Does the lesion have a shiny or pearly appearance?
+Are there any visible blood vessels within or around the lesion?
+Does the lesion have irregular borders?
+Is the color of the lesion uneven?
+Is the diameter of the lesion larger than 6mm?
+Is the lesion evolving in size, shape or color over time?
+Does the lesion appear elevated or raised from the skin?
+Are there signs of bleeding or oozing from the lesion?
+Is the lesion glossy or shiny in appearance?
+Does the lesion have a distinct lack of pattern?
+Does the skin around the lesion appear red or inflamed?
+Are there satellite moles appearing near the lesion?
+Does the lesion have irregular borders?
+Is the color of the lesion inconsistent?
+Does the diameter of the lesion exceed 6mm?
+Has the lesion changed in size, shape, or color recently?
+Is the surface of the lesion rough or scaly?
+Does the lesion appear elevated or risen from the skin?
+Can we observe any oozing or bleeding from the lesion?
+Is there a loss of skin architecture in the lesion area?
+Is there a presence of blue or black colors in the lesion?
+Do satellite lesions surround the main lesion?
+Does the lesion display multi-component patterns?
+Does the lesion have irregular borders?
+Is the color of the lesion non-uniform?
+Does the lesion show signs of scaling or crusting?
+Is the lesion larger than 6mm?
+Has the lesion changed in size, color, or shape recently?
+Does the lesion bleed or itch?
+Is the lesion elevated from the skin surface?
+Does the lesion have a shiny or pearly appearance?
+Are there bluish-black or brown spots visible?
+Does the skin around the lesion appear red or swollen?
+Is the skin lesion irregularly bordered?
+Does the lesion have varied colors within it?
+Does the lesion appear to be larger than 6mm in diameter?
+Is there a rapid development or change in the lesion over time?
+Is there a noticeable redness or inflammation around the skin lesion?
+Is the lesion surface uneven or scalloped?
+Is there any evidence of bleeding or oozing from the lesion?
+Is the lesion shiny or glossy in appearance?
+Does the lesion have an irregular shape or form?
+Has there been any change in sensation - itchiness or tenderness around the lesion?
+Is the lesion border irregular?
+Does the lesion have varied colors?
+Are there any satellite moles around the lesion?
+Does the lesion appear larger than 6mm in diameter?
+Does the lesion exhibit a change in size, shape, or color?
+Does the lesion appear elevated or raised from the skin?
+Is there any bleeding or oozing from the lesion?
+Does the skin around the lesion appear reddened or inflamed?
+Does the lesion have a rough or scaly surface?
+Is there a loss of skin surface structure within the lesion area?
+Is the border of the lesion irregular?
+Does the lesion have varied colors?
+Is the diameter of the lesion larger than 6mm?
+Is the lesion evolving or changing over time?
+Is the texture of the lesion scaly?
+Is there a visible redness or inflammation around the lesion?
+Does the lesion appear raised or elevated from the skin?
+Is there bleeding or oozing from the lesion?
+Is the lesion shiny or glossy in appearance?
+Does the lesion look like a scar without defined borders?
+Does the lesion have irregular borders?
+Are there multiple colors present in the lesion?
+Is the diameter of the lesion larger than 6mm?
+Has the lesion evolved or changed over time?
+Is the texture of the lesion rough or uneven?
+Is there any evidence of bleeding or oozing from the lesion?
+Does the lesion appear elevated or raised from the skin?
+Does the area around the lesion appear discolored or inflamed?
+Is there a notable lack of uniformity in the pigmentation of the lesion?
+Does the lesion have an atypical shape?
+Does the lesion have irregular borders?
+Is the color of the lesion uneven?
+Does the lesion diameter exceed 6mm?
+Is the lesion evolving or changing over time?
+Does the lesion have different shades of color?
+Is there redness or swelling beyond the border of the lesion?

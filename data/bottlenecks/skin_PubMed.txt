@@ -1,0 +1,200 @@
+Does the lesion appear as irregular dark skin areas with varying color?
+Can shiny white streaks be seen on the skin lesion?
+Does the skin lesion look melonocytic under dermoscopy?
+Are there blood vessels visible in the lesion?
+Does the lesion show characteristics of malignant transformation, such as asymmetry, border irregularity, color variability, diameter of 6 mm or more, rapid growth, shiny and pearly papule, elevated nodule, or telangiectasia?
+Does the lesion have pigmentation?
+Does the lesion show signs of arboriform telangiectasias, leaf-like areas, ovoid nests, gray-blue globules or spoke-wheel-areas?
+Is the lesion asymmetrical?
+Does the lesion have various morphometric features of the epidermis?
+Does the lesion have a whitish rim encircling it?
+Does the lesion have an ill-defined border or irregular margin?
+Does the lesion show different shades of brown?
+Does the lesion have a regularly shaped border?
+Does the lesion show multiple colors?
+Are there comedo-like openings in the lesion?
+Is the lesion presenting a hyperkeratosis or epidermal hyperplasia?
+Is there a presence of papillomatous changes in the lesion?
+Does the lesion exhibit multiple pseudohorn cysts containing keratin?
+Is there a non-uniform pigmentation or distribution of melanocytes?
+Is there a cobblestone pattern on the skin lesion?
+Does the lesion have granular structures?
+Does the lesion have a central area of ulceration or a rough, crust-like appearance?
+Is the lesion rough and hard, with a color darker than normal skin?
+Are there visible skin changes associated with the lesion?
+Is there a change in the epidermis of the lesion?
+Does this lesion appear elevated?
+Does the lesion have regular margins?
+Is the lesion's color uniformly light to dark brown?
+Is the lesion larger than 2 mm in diameter?
+Is there a presence of nests of melanocytic cells within the lesion?
+Is the lesion's surface flat?
+Does the lesion have a darker area within it?
+Is the lesion's surface papillomatous?
+Does the lesion possess an irregular shape?
+Is the color distribution inside the lesion irregular and uneven?
+Does the lesion exhibit a blotchy texture?
+Are shiny white streaks and hypochromic areas visible in the skin lesion?
+Does the skin lesion have white radial streaks?
+Are patterned white streaks present in the skin lesion?
+Is the lesion melanocytic?
+Are there vascular morphologies present in the lesion?
+Does the lesion adhere to the ABCD dermoscopy rule?
+Can the lesion's edges be clearly defined under dermoscopy?
+Are there morphologic features visible under dermoscopy that are not visible to the naked eye?
+Does the lesion lack round structures in dermoscopy?
+Does the lesion display exfoliation or white structureless areas?
+Do the lesions contain enlarged blood vessels?
+Are there irregular blood vessels in the lesion?
+Are there blood vessels arranged linearly along the lesion?
+Does the lesion contain dark spots?
+Is there a presence of sharp demarcation in the lesion?
+Does the lesion present with a network of structures?
+Does the lesion appear macular (flat) or papular (elevated)?
+Does the lesion have irregular borders?
+Does the color of the lesion vary or change?
+Does the lesion appear as an elevated nodule?
+Does the skin lesion show abnormal pigmentation network?
+Is the pigmentation of the lesion uniform?
+Is the lesion blue or white in color?
+Are there pigmented structures in the lesion?
+Does the lesion exhibit any vascular structures?
+Does the lesion have a multi-component pattern?
+Are tree-like vessels present in the lesion?
+Does the lesion display arborizing telangiectasias?
+Does the lesion show any signs of ovoid nests?
+Does the lesion exhibit irregular prominence of pigmentation?
+Does the lesion exhibit a range of sizes and shapes?
+Does the lesion appear erythematous?
+Are there short, thin and slightly curved vessels around the lesion?
+Is the lesion surrounded by a rim of brownish pigmentation?
+Does the lesion have color variegation?
+Does the lesion have well-defined borders?
+Are the lesion borders diffuse and ill-defined?
+Does the lesion show diffuse pigmentation of different shades of brown colour?
+Is the border of the lesion raised?
+Is the lesion's border complex or simple?
+Does the lesion differ from a convex object?
+Does the border of the lesion have a round shape?
+Is the lesion larger in diameter or darker in color?
+Does the lesion have uneven or notched borders?
+Does the lesion have a smooth, dome-shape?
+Are there milia-like cysts in the lesion?
+Does the lesion contain a dark brown-colored keratin plug?
+Does the lesion present with a black or brown coloration on the surface?
+Does the lesion have a reticulated network with a central hyperpigmented area?
+Does the lesion present with hyperkeratosis?
+Can brownish-black verrucose plaques be seen on the body?
+Do you observe a dry, thick, irregular, and rough surface on the lesion?
+Does the lesion have a central keratin plug?
+Does the lesion have atypical linear vessels?
+Does the lesion exhibit papillomatosis?
+Are there pseudohorn cysts in the lesion?
+Does the lesion display a papillomatous surface?
+Are there multiple follicular comedo-like openings on the lesion?
+Does the lesion have a greyish blue veil?
+Does the lesion have a non-continuous discoloration?
+Does the pigmented skin lesion exhibit a pigment network or brown globules?
+Does the lesion exhibit equal and symmetrical distribution of black dots and globules in the area of the brown pigmentation?
+Does the lesion have multiple large round cells?
+Are there dense and sparse nests of cells in the lesion?
+Is the lesion characterized by a yellow color?
+Does the skin lesion show a uniform globular pattern?
+Are there blue granules identified in the lesion?
+Does the lesion present as a flat pigmented area?
+Does the lesion have pigmented folicles?
+Is the border of the lesion irregular?
+Does the lesion have a crust-like appearance?
+Is the lesion characterized by a rough or raised edge?
+Is the lesion accompanied by erythema (redness)?
+Does the lesion appear as a nodule?
+Is the skin around the lesion rough without pain?
+Does the lesion appear as a rough or scaly papule or plaque?
+Does the lesion appear red and scaly?
+Is the lesion located on the extremities?
+Is the lesion several centimeters in size?
+Are there multiple lesions?
+Are there any visually identifiable vessels associated with the lesion?
+Is the lesion surrounded by an erythematous halo?
+Does the lesion display symptoms of superficial tumor-related telangiectasias?
+Are there any gray-brown to gray-white areas in the lesion?
+Can the lesion color be classified into categories: normal, light brown, brown, and dark brown?
+Is the lesion smaller than 5 mm in diameter?
+Are the melanocytic cells arranged in nests?
+Does the lesion have a flat surface?
+Is the surface of the lesion granular or uneven?
+Does the lesion appear as raised nodules, slightly elevated, or flat?
+Is the lesion scar flat and lacks hyperplasia?
+Does the lesion have a visibly smooth and even surface?
+Does the lesion have a darker center?
+Is the lesion larger than usual at the time of diagnosis?
+Is the lesion gray to brown in color?
+Is the lesion presenting as a verrucous surface?
+Does the lesion exhibit dyspigmentation?
+Is the lesion round to oval in shape?
+Is the lesion irregular in shape?
+Do the lesions present as patches with an irregular shape?
+Does the lesion show atypical pigment network?
+Does the lesion have uneven thickness?
+Is there a rough surface on the lesion?
+Does the lesion have an unclear boundary?
+Does the lesion present with irregular streaks?
+Does the lesion show irregular globular patterns?
+Does the lesion have an asymmetric disposition?
+Is the lesion hyperpigmented?
+Is the lesion texture varied?
+Does the lesion show dry scaly areas?
+Does the lesion exhibit increased skin texture?
+Is there evidence of hypochromic areas within the skin lesion?
+Is the lesion center reddish or white?
+Is the surface of the lesion granular and papillary?
+Can polymorphic vascular structures be seen in the lesion?
+Are there vascular clusters scattered in the lesion?
+Are there white streaks present in the lesion?
+Does the skin lesion display pigmented islands?
+Does the skin lesion show irregular hyperpigmented areas?
+Do the streaks on the skin lesion follow a linear pattern?
+Does the lesion contain a variety of colours?
+Are there visible borders between lesion and non-lesion areas?
+Does the lesion exhibit any form of asymmetry?
+Can you observe parallel oriented, enlarged blood vessels?
+Are there any distinct morphological characteristics such as macule, plaques, or nodules?
+Are there inconsistencies or color changes present in the lesion?
+Is the diameter of the lesion large?
+Does the lesion have irregular vascular patterns?
+Do irregular structures appear within the lesion when dermoscopy is used?
+Does the lesion have atypical networks or blue-whitish veils visible?
+Does the lesion have color variations?
+Can subepidermal structures of the lesion be seen?
+Does the dermoscopy display subsurface skin structures in the epidermis, at the dermoepidermal junction, and in the upper dermis?
+Does the lesion show central ulceration-crust?
+Can you observe brown dots in the central area of the lesion?
+Can you identify any follicular involvement in the lesion?
+Is there a presence of white scaling on the lesion?
+Is the lesion area diffuse or concentrated?
+Are there linear or dotted vessels visible on the lesion?
+Does the lesion show signs of exfoliation or surface scale?
+Is the lesion symmetric or asymmetric?
+Are blood vessels visible within the lesion?
+Are there vessels of varied sizes and shapes within the lesion?
+Does the lesion show arborizing vessels under dermoscopy examination?
+Does the lesion show short fine telangiectasia under dermoscopy?
+Are more than two blood vessels visible in the lesion?
+Is the lesion under the skin displaying an irregular structureless area?
+Are the blood vessels in the lesion arranged in a disorganized way?
+Are there dotted vessels located in the reticular spaces on the borders of the lesion?
+Is the lesion erythematous and scaly?
+Does the lesion exhibit dark pigmentation?
+Does the lesion stand out due to its dark appearance?
+Does the lesion appear as a dark-brown or black macule?
+Does the lesion show changes in skin texture?
+Is the lesion's demarcation line clear to distinguish?
+Does the lesion feature scales or white follicles?
+Does the lesion have distinct and possibly hyperpigmented margins?
+Is the lesion slightly raised or depressed?
+Does the lesion present with pseudopods?
+Does the lesion have a discolored central area?
+Is the lesion round and firm?
+Does the lesion have a crusty appearance?
+Are there abrupt cut-offs in any section of the lesion's border?
+Is the convexity of the lesion border less than 1?

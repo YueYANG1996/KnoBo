@@ -1,0 +1,200 @@
+Does the chest X-ray show a hyperlucent affected lobe?
+Does the chest X-ray reveal associated atelectasis?
+Is there evidence of lobar collapse in the chest x-ray?
+Are there horizontal lines present on the chest x-ray?
+Does the chest x-ray show signs of hyperexpansion?
+Is there evidence of right ventricular enlargement?
+Is there an enlargement of the central pulmonary arteries?
+Is the heart appearing mildly enlarged?
+Is there an increase in the pulmonary artery silhouette?
+Are there alveolar and interstitial opacities involving at least three-quarters of the lung fields?
+Does the chest X-ray show pleural effusions?
+Is there evidence of increased pulmonary blood flow?
+Is there a widened mediastinum?
+Is the cardiac silhouette found to be normal or enlarged?
+Does the patient have focal or diffuse interstitial infiltrates?
+Can you observe bilateral lower lobe infiltrates?
+Does the chest x-ray reveal mediastinal widening?
+Can you spot infiltrates in the chest x-ray?
+Are there findings of cavitary apical disease of the upper lobes?
+Does the pulmonary vasculature show signs of congestion?
+Are there signs of interstitial edema?
+Is there pulmonary edema present?
+Are there signs of asymmetric pulmonary edema?
+Is there signs of pulmonary venous congestion?
+Is there a bibasilar reticular pattern present?
+Are bronchovascular markings increased in the affected lobe?
+Does the X-ray show a 'white-out' of lungs?
+Are pulmonary infiltrates and effusions visible?
+Is there evidence of any new focal infiltrates or nodules in the lungs?
+Does the chest X-ray show signs of transient pulmonary infiltrates?
+Can a mass surrounding by an area of low attenuation be identified?
+Is there consolidation visible?
+Is there a diffuse interstitial pattern?
+Are there signs of bronchopneumonia?
+Is there evidence of lung abnormalities?
+Are there signs of pulmonary disease?
+Is there evidence of patchy infiltrates?
+Can consolidation be seen in dependent pulmonary segments?
+Are lobar consolidation or isolated masses present?
+Does the X-ray show any significant consolidation of lung fields?
+Can any ill-defined micronodular opacities be seen?
+Are signs of airspace consolidation, more specifically in a subpleural region, present?
+Can consolidation of the lower lobe be seen, specifically on the left?
+Is there a nonsegmental patchy infiltrate?
+Is there noticeable aneurysmal dilation of the aorta?
+Is there evidence of left ventricular enlargement?
+Is there a dilated proximal ascending aorta along the upper right heart border in the frontal view?
+Is there evident enlargement of the main and proximal pulmonary arteries?
+Is the azygos vein notably enlarged?
+Is there notable post-stenotic dilation of the main pulmonary artery in the frontal plane projection?
+Are any abnormal masses present?
+Is there evidence of lung metastasis?
+Can a fracture be identified?
+Is the anteroposterior (AP) view present?
+Is there evident lung damage?
+Is there evidence of unusual formation in bones?
+Is there pleural effusion visible?
+Is there generalized pleural thickening?
+Does the hemithorax appear shrunken?
+Are there visible deviations of mediastinal structures?
+Is there a depression of the hemidiaphragm?
+Are there absent lung markings?
+Are there calcified pleural plaques?
+Is there subpleural atelectasis?
+Are there pulmonary infiltrates in the lower lobes?
+Is there evidence of a lung mass in the upper lobe?
+Is there a solitary pulmonary nodule visible?
+Does the x-ray show any signs of growth in the pulmonary nodule over a period greater than 2 years?
+Is there a diffuse infiltrate or diffuse small nodules present?
+Is there a large superior anterior mediastinal mass compressing the trachea?
+Has a chest x-ray been obtained to exclude an anterior mediastinal mass?
+Is there evidence of a metastasis in the chest X-ray?
+Is there a mediastinal mass?
+Is there interstitial opacity present on the chest X-ray?
+Are there diffuse hazy opacities found on the chest x-ray?
+Do the chest x-ray show mottled opacities in the middle and lower lung fields?
+Are there any prominent opacities indicated on the chest x-ray?
+Is there bilateral diffuse pulmonary infiltrates recognizable on chest X-ray?
+Are there instances of abnormalities that might have been missed on a chest x-ray?
+Is there an indication of a discrepancy in heart size?
+Are there signs of septic pulmonary emboli?
+Do X-rays show air-filled bowel in the chest?
+Is there a dilation of pulmonary vessels?
+Is there a mass in the lung?
+Are there multiple fractures in the chest?
+Is there visible fluid in the alveolar space?
+Is there an indication of obstruction in major airways?
+Is there evidence of subcutaneous emphysema?
+Can signs of a tension pneumothorax be identified?
+Is there lymph node enlargement?
+Is the bone appearing white on the x-ray film?
+Is the air appearing dark on the x-ray film?
+Are there signs of heart failure?
+Is there free air visible under the diaphragm?
+Is there increased pulmonary vascularity?
+Are there prominent pulmonary vasculatures in the upper zones?
+Are there increased pulmonary blood and displaced pulmonary arteries?
+Is there an enlargement of any heart chamber on the chest X-ray?
+Are there signs of RV volume overload on the chest X-ray?
+Is there symmetrical interstitial infiltration?
+Are there diffuse alveolar opacities?
+Are there new alveolar opacities?
+Are there bilateral alveolar opacities visible without pleural effusions?
+Are there diffuse bilateral interstitial infiltrates?
+Are there linear opacities at the lung bases?
+Are there bilateral alveolar infiltrates visible?
+Is there evidence of pulmonary vascular congestion?
+Is there a presence of pericardial effusions?
+Does the X-ray show mediastinal masses?
+Is there an observable indication of lung infection?
+Is there an indication of bloated blood vessels in the lungs?
+Is there an abnormal aortic contour visible?
+Are there signs of pulmonary processes such as pneumonia or pneumothorax?
+Does the X-ray reveal an unremarkable ACS but evident pulmonary edema?
+Are there observable signs of peribronchial cuffing and air bronchograms?
+Is the cardiac silhouette rounded?
+Has the cardiac silhouette been displaced to the left?
+Is there evidence of perihilar alveolar infiltrates?
+Is the heart size normal in presence of alveolar infiltrates?
+Are there increased interstitial markings?
+Is there a localized infiltrate?
+Is there any evidence of a mass effect?
+Is there an upper-lobe infiltrate with cavitation?
+Is there evidence of infiltrates on bilateral lower lobes?
+Are there pulmonary infiltrates visible on both sides of the chest?
+Are there signs of noncardiogenic pulmonary edema?
+Are there signs of mediastinal widening on the chest X-ray?
+Can mediastinal lymphadenopathy be observed on the chest X-ray?
+Is there a sign of pulmonary involvement detected on the chest X-ray?
+Are there any areas of cavitation in the lungs?
+Is there opacification seen in the upper lobe?
+Can bilateral involvement be detected on the radiograph?
+Is there presence of pleural thickening?
+Does the chest radiograph show any patterns of diffuse alveolar infiltrates?
+Are there signs of lung volume loss?
+Is there observable apical scarring?
+Are there any visible nodules in the radiograph?
+Is there evidence of a solid mass within a cavity?
+Are there signs of congestive heart failure present?
+Is there a presence of a right apical infiltrate?
+Does the chest X-ray show signs of pulmonary congestion?
+Is there evidence of hyperinflation?
+Are there signs of pneumonia?
+Are pleural effusions present?
+Is there peribronchial thickening?
+Are vascular markings in the upper lung zones prominent?
+Are Kerley B lines present?
+Is there patchy alveolar filling, especially in a perihilar distribution?
+Can cardiomegaly be noticed on the X-ray?
+Is there a prominent pulmonary vasculature?
+Is there a visible pulmonary vascular prominence?
+Can enlarged heart be observed?
+Is there a reticular infiltrative pattern visible?
+Is there symmetry in the chest abnormality?
+Is there a right lower-lobe mass?
+Is there a right middle lobe opacity?
+Is there right lower lobe pneumonia?
+Are there increased bronchovascular markings?
+Are there varying shades of gray visible?
+Can infiltrates be seen on the same side as a pleural effusion?
+Is there a presence of rounded nodular opacities?
+Are there rounded infiltrates of a few millimeters to several centimeters?
+Is there a new lung infiltrate visible on the chest x-ray?
+Are there signs of pulmonary fibrosis or granulomas?
+Is there an observable bilateral perihilar and basilar infiltrate on the chest radiograph?
+Are there non-calcified nodules measuring 4 mm or more in the lung?
+Is there an area of low attenuation?
+Are there areas of high density?
+Can a substance that attenuates X-rays be identified?
+Are there calcifications indicated in the X-ray?
+Is there a new or changing radiographic infiltrate?
+Are there signs of restricted lung capacity?
+Are infiltrates appearing during treatment?
+Is there any sign of hilar lymphadenopathy?
+Is there evidence of a tumor in the lungs?
+Is there evidence of patchy infiltrates?
+Is there an initial hazy infiltrate present?
+Can bilateral patchy infiltrates be identified?
+Does the patient demonstrate signs of pneumonia, like chest consolidation, without the presence of neutrophils or purulent sputum?
+Does the chest radiograph show airspace consolidation obscuring the heart border?
+Is there evidence of peribronchial pneumonia indicated by thickened bronchial markings and streaks of interstitial infiltration?
+Are there potential pleural effusions as viewed from lateral decubitus positions?
+Are there round opacities observed in the image?
+Are linear opacities visible on the X-ray?
+Can any foreign body be seen in the chest or abdominal area?
+Is there subpleural or peribronchial patchy areas of airspace consolidation?
+Is there diffuse bilateral airspace opacification in the chest X-ray?
+Is there focal airspace disease present in the chest X-ray?
+Is there evidence of linear and reticular abnormalities in lower lungs?
+Is there a segmental consolidation observed?
+Has the pneumonia extended to lower lobes?
+Is there diffuse infiltration throughout the lung?
+Can any abnormality be seen in left lower lobe?
+Is there any notable calcification of the ascending aorta?
+Is there cardiomegaly evident on the chest X-ray?
+Is the vascularity in the chest X-ray increased?
+Is the aortic knob visible?
+Is there an enlargement of the aorta?
+Is the arch of the aorta visible in the superior mediastinum?
+Is there normal lung vascularity?

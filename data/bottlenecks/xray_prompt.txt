@@ -1,0 +1,200 @@
+Is there a noticeable shift in the mediastinum?
+Are the lung volumes reduced?
+Is there an elevated diaphragm present?
+Are there signs of lung crowding?
+Is there a loss of lung markings?
+Is the trachea deviated?
+Are lung fissures displaced?
+Is the heart border unsharp?
+Is the lung field obscured?
+Are the lung markings diminished?
+Is there evidence of air trapping?
+Can you see an elevated diaphragm?
+Are the borders of the heart and aorta obscured?
+Is the mediastinum shifted?
+Is there a visible pleural line?
+Are the rib spaces widened?
+Is tracheal shift visible?
+Is there uniform darkness in any part of the lung?
+Is there a reduction in lung volume?
+Are the lung markings absent or decreased?
+Is there an increased density on the affected area?
+Can you identify a shift in mediastinum?
+Is there possible elevation of the diaphragm?
+Can segmental, lobar, or entire lung collapse be observed?
+Are there signs of bronchial obstruction?
+Does the patient show signs of chronic atelectasis including lung scarring or fibrosis?
+Is the trachea centrally positioned?
+Are the lung markings reduced?
+Is there an increased translucency in any lung region?
+Are the diaphragmatic domes flattened?
+Are lung fields clear on both sides?
+Does the cardiac silhouette appear normal?
+Can pleural lines be observed?
+Is the mediastinum deviated?
+Are there any abnormalities in the costophrenic angles?
+Is there an absence of lung parenchyma markings?
+Can any mass or nodule be identified in the lung fields?
+Is the lung volume decreased?
+Is there a reduction in lung volume?
+Are the bronchi visible beyond the normal location?
+Can a shift in mediastinal structures be identified?
+Are infiltrates present?
+Is there an increase in the density of lung fields?
+Are there any visible obstructions in the bronchi?
+Can complications such as pneumonia be observed?
+Do lung lobes appear collapsed?
+Are there visible plate-like streaks parallel to the diaphragm?
+Are there signs of pleural effusion or pneumothorax?
+Is there a visible increase in lung markings?
+Are the lung fields darkened symmetrically?
+Is there presence of an elevated diaphragm?
+Is there an observed tracheal shift?
+Can decreased lung volume be observed?
+Is there widening of the mediastinum?
+Is the heart shadow normal in size and shape?
+Are the costophrenic angles clear?
+Is there evidence of lung infiltration?
+Can hilar enlargement be detected?
+Are there signs of rib deformation or chest wall abnormalities?
+Is there consolidation in the lungs?
+Are the lung fields clear?
+Is the volume of any lobe reduced?
+Is there an increase in bronchovascular markings?
+Is the trachea deviated?
+Is there pleural effusion?
+Are there signs of lung collapse?
+Is there distortion of lung architecture?
+Are the costophrenic angles sharp?
+Is the diaphragm level normal?
+Is there a visible mass in the lung fields?
+Are the heart borders clear?
+Is there an increased density in the lungs?
+Are the lung fields darkened or less visible?
+Is there a shift in the trachea or heart?
+Does the diaphragm appear flat or lowered?
+Can the lung markings be seen extending to the edges of the lungs?
+Is there a noticeable volume loss in the lungs?
+Is there evidence of a pleural effusion?
+Are the spaces between the ribs narrowed?
+Does the lung show signs of collapse?
+Are the peripheral lung fields clear?
+Is there a loss of volume in the lung?
+Are the lung markings absent or reduced?
+Is there mediastinal shift to the affected side?
+Is there elevation of the diaphragm on the affected side?
+Are the ribs on the affected side appearing closer together?
+Is there an area of increased radiodensity?
+Is there obliteration of the costophrenic angle?
+Can you see tracheal deviation towards the area of suspected atelectasis?
+Is there an apparent "crowding" of vessels and bronchi in the affected area?
+Is there a loss of lung volume?
+Are there increased lung densities?
+Does the mediastinum shift towards the affected lung?
+Is the diaphragm elevated on one side?
+Are the lung markings absent or decreased?
+Is the trachea deviated to one side?
+Are there signs of lobular, segmental or subsegmental collapse?
+Are the heart and major vessels shifted toward atelectasis?
+Is there poor distinction of the diaphragm?
+Is the lung field under-inflated?
+Are the lung markings diminished?
+Is a visible lung parenchyma opaque on the chest X-ray?
+Does the chest X-ray show a shift in mediastinal structures?
+Can you spot elevated hems in the diaphragm?
+Does the X-ray depict crowding of the ribs?
+Is there a pleural effusion noted?
+Is the trachea visibly displaced?
+Is the heart or mediastinum abnormally positioned?
+Can pleural thickening be seen in the image?
+Does the chest X-ray depict a dense and consolidated lung lobe?
+Is segmental collapse present in the lung?
+Is there evidence of a collapsed lung or part of the lung?
+Are the diaphragm and the heart borders obscured?
+Does the chest X-ray show displacement of fissures or pulmonary vessels?
+Are there signs of volume loss in the lung?
+Is there noticeable tracheal shift?
+Does the X-ray show compensatory overinflation in the remaining lung?
+Is there increased density in lung fields?
+Are there visible signs of absence or reduction in the lung markings?
+Can foreign material or objects be seen in the bronchus?
+Is there evidence of pleural effusion?
+Is there visible lung collapse in the X-ray?
+Are the lung markings faded or absent?
+Is there elevated position of the diaphragm?
+Can you see a shift of the mediastinum?
+Do the heart and trachea appear to be shifted towards the area of collapse?
+Are the spaces between the ribs decreased?
+Is there an increased density in certain areas of the lung?
+Do the bronchi appear dilated?
+Is there evidence of compensatory hyperinflation in the opposite lung?
+Can you observe a peripheral shadow adjacent to a pleural surface?
+Is there a reduction in lung volume?
+Are the lung markings diminished or absent?
+Is there an elevated diaphragm present?
+Are there signs of mediastinal shift?
+Do the lung fields show areas of increased density?
+Are there any signs indicative of lung collapse such as tracheal deviation or rib crowding?
+Are there any abnormal shadows in the lung fields?
+Is peripheral lung field clear?
+Is the lung parenchyma homogeneous?
+Does the cardiac silhouette appear normal?
+Are the costophrenic angles blunt or obscured?
+Is there a loss of lung volume?
+Are the lungs completely expanded?
+Is there increased density in the lungs?
+Do the pleural surfaces appear irregular?
+Is there a shift in the mediastinum position?
+Is there an absence of air bronchograms?
+Is there a tracheal shift towards the affected side?
+Are the heart and diaphragm elevated?
+Is there an elevated hemidiaphragm?
+Is the costophrenic angle obscured?
+Is there evidence of collapsed lung tissue?
+Are the lung fields clear?
+Is there any abnormal lung shadowing?
+Can you see elevated diaphragms?
+Is loss of volume noticeable?
+Are there signs of airway obstruction or blockage?
+Is there any presence of abnormal white areas?
+Can you notice mediastinal shift?
+Is the tracheal position abnormal?
+Can you identify crowding of the ribs?
+Is there a loss in lung volume?
+Can you observe a shift in mediastinum?
+Are the lung markings decreased?
+Is there an elevation in the diaphragm?
+Are the bronchial walls thickened?
+Can you see any signs of pleural effusion?
+Is one lung segment or lobe smaller than the others?
+Is there an air bronchogram present?
+Is the chest expansion reduced on one side?
+Is there a loss of lung volume?
+Are the lung fissures displaced?
+Is there mediastinal shift?
+Can you observe elevated hemidiaphragm?
+Are there any signs of air bronchograms?
+Is the trachea deviated?
+Can you see a loss of costophrenic angles?
+Are the lung markings reduced in any area?
+Is there an increased radiodensity in the lung areas?
+Is the lung field darkened?
+Are the lung borders well-defined?
+Is there an absence of parenchymal markings?
+Is there any evidence of increased chest density?
+Are the lung fields not fully inflated?
+Is the diaphragm elevated?
+Are there any areas of increased shadowing within the lung fields?
+Are the rib spaces close together?
+Is there a shift in the position of the heart or mediastinum?
+Is the trachea deviated from its usual position?
+Is there decreased lung volumes?
+Are there signs of non-uniform lung expansion?
+Is there a presence of abnormal silhouette sign?
+Do the lung markings appear faded or absent?
+Is there decreased lung volume?
+Is the trachea shifted?
+Does one see an elevated diaphragm?
+Are there signs of air bronchograms?
+Is the mediastinal shift identifiable?
+Is the lung field clear?

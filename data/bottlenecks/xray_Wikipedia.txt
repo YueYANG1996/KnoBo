@@ -1,0 +1,200 @@
+Is there lung opacification?
+Does the chest X-ray show signs of lung volume loss?
+Is there any sign of lung overinflation?
+Does the chest X-ray reveal evidence of trachea shifting?
+Can mediastinum shifting be observed on the chest X-ray?
+Does the chest X-ray show signs of obstructive emphysema?
+Are there any signs of consolidation on the chest X-ray?
+Does the X-ray indicate an obvious mass?
+Is there any sign of bronchial wall thickening on the chest X-ray?
+Are there indications of airway dilation on the chest X-ray?
+Can ground glass or consolidative opacities be observed in the X-ray?
+Does the chest X-ray show diffuse interstitial infiltrates?
+Does the X-ray show signs of diffuse alveolar opacities?
+Is there a visible enlargement of the heart?
+Are there signs of vascular redistribution?
+Are there indications of Kerley lines?
+Is there cuffing of the areas around the bronchi?
+Is there evidence of interstitial edema?
+Is there a presence of a pericardial effusion?
+Is there evidence of widespread pulmonary infiltrates?
+Is there a blunting of the costophrenic angle or partial or complete opacification of the affected half of the thorax?
+Are there changes in multiple areas and fluid in the area surrounding the lungs?
+Is the cardiopericardial silhouette enlarged?
+Are there signs of chronic effusion?
+Is there evidence of pleural effusion?
+Are there anterior subpleural consolidations?
+Are there cavities filled with air or fluid in the lungs?
+Are there opaque patches in the chest on imaging?
+Are there bilateral opacities that cannot be fully explained by other conditions such as effusion, lung or lobar collapse, or lung nodules?
+Are there infiltrates on a chest X-ray?
+Is there evidence of hyperinflation?
+Are there signs of lung hyperlucency?
+Does the patient have small, irregular parenchymal opacities?
+Are there areas of opacity due to fibrosis of the pulmonary parenchyma?
+Is there evidence of lung inflammation?
+Are lung nodules visible?
+Does the patient show signs of bronchiectasis and pleural scarring?
+Does the chest X-ray indicate any new opacification of the lung?
+Does the chest X-ray show features that appear similar to an extensive pneumonia, with both lungs showing widespread white patches?
+Is there upper-lobe consolidation present?
+Are there multifocal nodular lesions visible?
+Is there alveolar consolidation apparent?
+Are there infiltrates in the lower lobes of the lungs?
+Is there consolidation or cavitation of the apexes of the upper lobes visible?
+Is a widened mediastinum visible?
+Is displacement of the trachea from the midline observed?
+Is there an enlarged aorta?
+Is there dilation of the ascending aorta?
+Are there small, round areas filled with air?
+Is subpleural dominance observable?
+Is the perihilar region infiltrated?
+Is the infiltration affecting the lower lobe?
+Are there any abnormalities visible on the scapula?
+Is there a suspicion of a rib fracture?
+Can you identify a continuous, irregular pleural shadowing on the chest radiograph?
+Is there obliteration of the costophrenic angle in continuity with pleural thickening?
+Is there evidence of free air at the diaphragm?
+Is there evidence of pleural effusions at the costophrenic angles?
+Is there an indication of any alveolar air space disease with prominent vascularity with or without pleural effusions?
+Is there a nodule or mass in the lung?
+Can smooth masses that are round or ovoid in shape be seen on the chest X-ray?
+Does the chest X-ray show small, ill-defined nodules of homogeneous density?
+Do the lungs show lesions appearing as nodules within the terminal and respiratory bronchioles?
+Is there a solitary pulmonary nodule smaller than three centimeters in diameter?
+Are there areas of hazy opacification or increased attenuation in the lungs?
+Are there alveolar opacities visible in the X-ray?
+Is there discrete, small opacities of 2–4 mm diameter visible on the radiograph?
+Can you see small (< 10 mm) nodules in the lungs, especially in the upper lung zones in the chest X-ray?
+Can you see interstitial lung diseases?
+Are there nodules or cavities in the lungs?
+Is there any discrete fibrotic scar or linear opacity?
+Does the chest X-ray suggest any airspace opacification?
+Are there any signs of pulmonary function abnormalities visible on the chest X-ray?
+Is there evidence of lung interstitial disease on the chest X-ray?
+Is there a lung cavity present in the chest X-ray?
+Is there a reduction in the size of one side of the chest?
+Is there a deformity in the trachea?
+Is there fluid present in individual lung lobes?
+Are the lungs hyperinflated?
+Is there effusion in the lower zone?
+Are there signs of lung architecture loss?
+Are there thin-walled cavities in the lungs?
+Is there any abnormality within the lung?
+Are there signs of pneumonia?
+Are there abnormal lung areas or large air-filled sacs?
+Are the pulmonary vasculature in both lungs appearing dilated?
+Are there findings related to lung infection?
+Is the trachea displaced?
+Is there any non-calcified nodules?
+Are there any signs of abnormal shadowing?
+Is there evidence of mediastinal widening on the chest X-ray?
+Are there signs of a mediastinal mass?
+Is there a radiolucent outline around the heart and mediastinum?
+Are there abnormalities in the rib area visible on the X-Ray?
+Is there evidence of air in the subcutaneous tissues in the chest region?
+Is there a visual difference in the X-ray during maximal inspiration as compared to the X-ray during expiration?
+Is there evidence of atypical pneumonia or acute respiratory distress syndrome on the chest X-ray?
+Are there ground glass opacities visible on the X-ray?
+Are there patchy consolidations present in the lungs on the chest X-ray?
+Is there localized consolidation depending on the patient's position visible on the chest X-ray?
+Is there a dense, homogenous area that obscures the costophrenic and cardiophrenic angles on the X-ray?
+Does the free edge of a diaphragm appear to curl and become perpendicular to the chest wall on the X-ray?
+Are there signs of bronchial inflammation in the chest X-ray?
+Is there any indication of bronchial dilation?
+Are there linear densities visible?
+Is there evidence of diffuse airway wall thickening?
+Is there any peribronchial thickening present?
+Is there any sign of edema?
+Can a sharp cut off on chest radiography be spotted?
+Are there signs of heart enlargement?
+Is there lung consolidation?
+Can bilateral opacities be found primarily at the bases of the lungs?
+Are there bilateral patchy areas?
+Is there evidence of patchy infiltrates?
+Is there alveolar damage on display?
+Does the X-ray show fluid in the small air sacs in both lungs?
+Are there any signs of fluid in the lungs, specifically pulmonary edema?
+Is there minimal interstitial infiltration?
+Does the X-ray show bilateral perihilar lung shadowing?
+Is there an abnormal heart silhouette?
+Is the heart generally enlarged?
+Is there an increase in the combined mass of cardiac chambers visible?
+Is there an evidence of pulmonary venous hypertension visible?
+Does the chest X-ray show changes in the vasculature?
+Are there signs of inflammation in the chest?
+Are there any indications of fluid redistribution in the chest?
+Are there any signs of localized vascular abnormalities in the chest?
+Are there short parallel lines at the lung periphery?
+Are there thin linear pulmonary opacities observable?
+Are there parallel lines perpendicular to the lateral lung surface?
+Are there prominent areas around the bronchus visible?
+Can you see a collapsed lung?
+Is the heart and its size clearly observable?
+Is there a fluid or air buildup within the chest cavity?
+Is there evidence of acute or worsening pulmonary edema?
+Has fluid overload been noticed?
+Are there signs of lymphatic congestion resulting in interstitial edema?
+Is there a lesion present in the lung?
+Can cavities be seen on the chest X-ray?
+Is there blunting of costophrenic angles?
+Can fluid be detected at the base of the lung?
+Is the heart displaced to the left?
+Is there lung tissue squeezed between the heart and the inferior border?
+Is there presence of a significant amount of fluid in the pleural space?
+Is fluid collecting in the angle between the ribs and diaphragm?
+Is the right diaphragmatic border elevated with a lateral peak and medial flattening?
+Is there fluid present in the area surrounding the lungs?
+Is there an area of increased shadow in the periphery of the lungs?
+Is there a pocket of infected fluid in the lung?
+Are the lungs filled with fluid and have become stiff?
+Is there fluid accumulation detected in the pleural space?
+Is there a large collection of fluid in the lung with a collapsed lung?
+Are there signs of pneumonia or a lung abscess shown in the CT scan?
+Has the diffuse lung disease been presented in chronic cases?
+Is there a presence of both air and fluid within the pleural space?
+Is there tracheal deviation away from the effusion?
+Is there a presence of pleural effusion without specific characteristics on the chest X-ray?
+Is there a collapse of the lung?
+Is there an abnormal amount of fluid between the pleura lining the lung and the chest wall?
+Is there compression from fluid in the pleural cavity?
+Is there a honeycomb appearance?
+Is there a small area of granulomatous inflammation?
+Is there patchy unilateral or bilateral consolidation?
+Is there ground glass appearance or hazy opacities?
+Is there an absence of lung markings?
+Are there diffuse nodular infiltrates visible?
+Are there fluid-filled cavities in the lung?
+Is there presence of collections of air or fluid in the lung?
+Is there a cavity with an air-fluid level in the lungs?
+Is there air trapped in the chest cavity outside the lungs?
+Is there a buildup of air in the pleural space causing lung collapse?
+Are there signs of lung injury of acute onset?
+Are there symmetrical reticulonodular opacities present on the chest X-ray?
+Are there bilateral alveolar opacities that are less than 5 cm?
+Is there evidence of pneumothorax in the area between the lung and the chest wall?
+Is there evidence of airway obstruction?
+Is there a noticeable asymmetry in lung inflation?
+Is the diaphragm visually flattened?
+Is there an increased front-to-back chest diameter observable?
+Are there interstitial fibrosis visible?
+Are there small rounded opacities present?
+Are there small irregular opacities present?
+Are there bilateral opacities visible?
+Is there pleural thickening in the image?
+Does the image show evidence of hilar lymphadenopathy?
+Does the chest X-ray show ground-glass opacities?
+Is there evidence of restrictive lung disease?
+Is there significant reticulation in the lungs?
+Is there an area of denser substance within the lungs?
+Is there evidence of granulomatous inflammation?
+Do the lungs show evidence of inflammation resulting in scar tissue formation?
+Is there a visible nodule in the lung?
+Are there any indications of granuloma formation in the lung?
+Is there an increase in lung density?
+Are there signs of fluid in the pleural cavity?
+Does the lung show signs of thickening?
+Is there evidence of a chronic lung condition?
+Is there a presence of an aggressive tumor?
+Do the lungs appear to have widespread white patches?
+Is there an anomaly visible in the upper lobe of the right lung?
