@@ -22,3 +22,5 @@ unzip grounding_functions.zip -d data
 # download model weights
 wget https://knowledge-bottlenecks.s3.amazonaws.com/model_weights.zip
 unzip model_weights.zip -d data
+
+rm features.zip MIMIC-CXR.zip ISIC.zip grounding_functions.zip model_weights.zip

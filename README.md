@@ -64,7 +64,7 @@ python modules/extract_features.py \
     --model_name <NAME OF THE MODEL> \
     --image_dir <PATH TO THE IMAGE DIRECTORY> \
 ```
-The supported models are listed [here](). We provide a bash script [`extract_features.sh`](extract_features.sh) to extract features for all datasets using the two CLIP models we trained.
+The supported models are listed [here](https://github.com/YueYANG1996/KnoBo/blob/e3e3171b74b6c8f42046676aa6c6ae21a034deba/modules/extract_features.py#L141). We provide a bash script [`extract_features.sh`](extract_features.sh) to extract features for all datasets using the two CLIP models we trained.
 
 
 ## Generate Bottlenecks from Medical Documents
