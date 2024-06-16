@@ -15,6 +15,10 @@ unzip MIMIC-CXR.zip -d data/datasets
 wget https://knowledge-bottlenecks.s3.amazonaws.com/ISIC.zip
 unzip ISIC.zip -d data/datasets
 
+# download grounding functions
+wget https://knowledge-bottlenecks.s3.amazonaws.com/grounding_functions.zip
+unzip grounding_functions.zip -d data
+
 # download model weights
 wget https://knowledge-bottlenecks.s3.amazonaws.com/model_weights.zip
 unzip model_weights.zip -d data

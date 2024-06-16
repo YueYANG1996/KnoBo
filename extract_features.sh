@@ -4,8 +4,8 @@
 DATASET_DIR=$1
 IMAGE_DIR=$2
 
-XRAY_DATASET_LIST=('NIH-gender' 'NIH-age' 'NIH-pos' 'CheXpert-race' 'NIH-CheXpert' 'pneumonia' 'COVID-QU' 'NIH-CXR' 'open-i' 'vindr-cxr')
-SKIN_LESION_DATASET_LIST=('ISIC-gender' 'ISIC-age' 'ISIC-site' 'ISIC-color' 'ISIC-hospital' 'HAM10000' 'BCN20000' 'PAD-UFES-20' 'Melanoma' 'UWaterloo')
+XRAY_DATASET_LIST=('NIH-sex' 'NIH-age' 'NIH-pos' 'CheXpert-race' 'NIH-CheXpert' 'pneumonia' 'COVID-QU' 'NIH-CXR' 'open-i' 'vindr-cxr')
+SKIN_LESION_DATASET_LIST=('ISIC-sex' 'ISIC-age' 'ISIC-site' 'ISIC-color' 'ISIC-hospital' 'HAM10000' 'BCN20000' 'PAD-UFES-20' 'Melanoma' 'UWaterloo')
 
 # for loop to run the python script for each dataset in the XRAY_DATASET_LIST
 for dataset in "${XRAY_DATASET_LIST[@]}"; do
