@@ -9,6 +9,16 @@
   <a href="https://arxiv.org/abs/2405.14839">Paper</i></a> | <a href="https://yueyang1996.github.io/knobo/">Project Page</i></a>
 </h4>
 
+##  Table of Contents
+1. [CLIP Models](#clip-models)
+2. [Installation](#installation)
+3. [Quick Start](#quick-start)
+4. [Directories](#directories)
+5. [Extract Features](#extract-features)
+6. [Generate Bottlenecks from Medical Documents](#generate-bottlenecks-from-medical-documents)
+7. [Train Grounding Functions](#train-grounding-functions)
+8. [Baselines](#baselines)
+
 
 ## CLIP Models
 We release the two CLIP models we trained for X-ray and Skin Lesion images on huggingface.
@@ -57,7 +67,7 @@ The output will be saved to `./data/results/`. You can change the `--modality` t
 
 
 ## Extract Features
-To extract features from the images using different models, you can run the following command:
+After running the [`setup.sh`](setup.sh), you should have the features extracted from the two CLIP models we trained in the `data/features/` directory. If you want to extract features using other models, you can run the following command:
 ```bash
 python modules/extract_features.py \
     --dataset_name <NAME OF THE DATASET> \
@@ -68,7 +78,34 @@ The supported models are listed [here](https://github.com/YueYANG1996/KnoBo/blob
 
 
 ## Generate Bottlenecks from Medical Documents
-Working on it...
+We build the retrieval-based concept bottleneck generation pipeline based on [MedRAG](https://arxiv.org/pdf/2402.13178). You need to first clone our [forked version](https://github.com/YueYANG1996/MedRAG/tree/main) and set up the environment by running the following commands:
+```bash
+git clone https://github.com/YueYANG1996/MedRAG.git
+cd MedRAG
+sh setup.sh
+```
+It may take a while since it needs to download the 5M PubMed documents (29.5 GB). After setting up the environment, you can test the RAG system by running the [`test.py`](https://github.com/YueYANG1996/MedRAG/blob/main/test.py).
+
+To generate the concept bottleneck from medical documents, you can run the following command:
+```bash
+python concept_generation.py \
+    --modality <xray or skin> \
+    --corpus_name <NAME OF THE CORPUS> \
+    --number_of_concepts <NUMBER OF CONCEPTS> \
+    --openai_key <OPENAI API KEY> \
+```
+For the `--corpus_name`, you can choose from `PubMed_all` (this is our version of PubMed with all paragraphs), `PubMed` (this is MedRAG's orginal version which only has abstracts), `Textbooks`, `StatPearls` and `Wikipedia`. The generated bottleneck will be saved to `./data/bottlenecks/<modality>_<corpus>_<number_of_concepts>`.
+
+**Annotate concepts:** You can annotate clinical reports for each concept in the bottleneck by running the following command:
+```bash
+python annotate_question.py \
+    --annotator <t5 of gpt4> \
+    --modality <xray or skin> \
+    --bottleneck <NAME OF THE BOTTLENECK> \
+    --number_of_reports <NUMBER OF REPORTS TO ANNOTATE> \
+    --openai_key <OPENAI API> \
+```
+The default LLM for annotation if Flan-T5-XXL, you can change it to GPT-4 by setting `--annotator gpt4` (warning: this may cost a lot of money). The default number of reports to annotate is 1000. The annotated reports will be saved to `./data/concept_annotation_<modality>/annotations/`.
 
 
 ## Train Grounding Functions

@@ -12,6 +12,27 @@ from sklearn.model_selection import train_test_split
 random.seed(0)
 
 def get_mapping(modality, annotations, concept, metadata, features, max_examples, train_samples):
+
+    try:
+        positive = annotations[concept]["positive"]
+        negative = annotations[concept]["negative"]
+    except:
+        print("The concept does not exist in the JSON annotations. Try to load from the annotation folder.")
+        annotation_path = f"./data/concept_annotation_{modality}/annotations_t5/{concept}"
+        
+        if not os.path.exists(annotation_path):
+            print(f"Annotation for {concept} does not exist. Skipping ...")
+            return False
+
+        positive = []
+        negative = []
+        for file in os.listdir(annotation_path):
+            report_id = file.split(".")[0]
+            with open(f"{annotation_path}/{file}", "r") as f:
+                answer = f.read().strip()
+            if answer == "yes": positive.append(report_id)
+            elif answer == "no": negative.append(report_id)
+
     positive = annotations[concept]["positive"]
     negative = annotations[concept]["negative"]
     
