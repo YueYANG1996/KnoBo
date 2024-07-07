@@ -105,7 +105,7 @@ python annotate_question.py \
     --number_of_reports <NUMBER OF REPORTS TO ANNOTATE> \
     --openai_key <OPENAI API> \
 ```
-The default LLM for annotation if Flan-T5-XXL, you can change it to GPT-4 by setting `--annotator gpt4` (warning: this may cost a lot of money). The default number of reports to annotate is 1000. The annotated reports will be saved to `./data/concept_annotation_<modality>/annotations/`.
+The default LLM for annotation if Flan-T5-XXL, you can change it to GPT-4 by setting `--annotator gpt4` (warning: this may cost a lot of money). The default number of reports to annotate is 1000. The annotated reports will be saved to `./data/concept_annotation_<modality>/annotations_<annotator>`.
 
 
 ## Train Grounding Functions
