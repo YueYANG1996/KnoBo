@@ -49,19 +49,19 @@ The output will be saved to `./data/results/`. You can change the `--modality` t
 
 
 ## Directories
-* `data/` : Contains the data for all experiments.
-  - `data/bottlenecks/` : Contains the concept bottleneck created using medical documents.
-  - `data/datasets/` : Contains the splits for all datasets. You may need to download the images of each dataset from their original sources. Please refer to the [DATASETS.md](DATASETS.md) for more details.
-  - `data/features/` : Contains the features extracted from different models.
-  - `data/grounding_functions/` : Contains the grounding functions for each concept in the bottleneck.
-  - `data/results/` : Contains the results of all experiments.
+* `data/`: Contains the data for all experiments.
+  - `data/bottlenecks/`: Contains the concept bottleneck created using medical documents.
+  - `data/datasets/`: This contains the splits for all datasets. You may need to download the images of each dataset from its original sources. Please refer to the [DATASETS.md](DATASETS.md) for more details.
+  - `data/features/`: Contains the features extracted from different models.
+  - `data/grounding_functions/`: Contains the grounding functions for each concept in the bottleneck.
+  - `data/results/`: Contains the results of all experiments.
 
-* `modules/` : Contains the scripts for all experiments.
-  - [`modules/cbm.py`](modules/cbm.py) : Contains the script for the running linear-based models, including KnoBo, linear probing, and PCBM.
-  - [`modules/extract_features.py`](modules/extract_features.py) : Contains the script for extracting image features using different models.
-  - [`modules/train_grounding.py`](modules/train_grounding.py) : Contains the script for training the grounding functions for each concept in the bottleneck.
+* `modules/`: Contains the scripts for all experiments.
+  - [`modules/cbm.py`](modules/cbm.py): Contains the script for the running linear-based models, including KnoBo, linear probing, and PCBM.
+  - [`modules/extract_features.py`](modules/extract_features.py): Contains the script for extracting image features using different models.
+  - [`modules/train_grounding.py`](modules/train_grounding.py): Contains the script for training the grounding functions for each concept in the bottleneck.
   - [`modules/end2end.py`](modules/end2end.py) : Contains the script for training the end-to-end model, including ViT and DenseNet.
-  - [`modules/LSL.py`](modules/LSL.py) : Contains the script for fine-tuning CLIP with knowledge (Language-shaped Learning).
+  - [`modules/LSL.py`](modules/LSL.py): Contains the script for fine-tuning CLIP with knowledge (Language-shaped Learning).
   - [`modules/models.py`](modules/models.py) : Contains the models used in the experiments.
   - [`modules/utils.py`](modules/utils.py) : Contains the utility functions.
 
@@ -94,7 +94,7 @@ python concept_generation.py \
     --number_of_concepts <NUMBER OF CONCEPTS> \
     --openai_key <OPENAI API KEY> \
 ```
-For the `--corpus_name`, you can choose from `PubMed_all` (this is our version of PubMed with all paragraphs), `PubMed` (this is MedRAG's orginal version which only has abstracts), `Textbooks`, `StatPearls` and `Wikipedia`. The generated bottleneck will be saved to `./data/bottlenecks/<modality>_<corpus>_<number_of_concepts>`.
+For the `--corpus_name,` you can choose from `PubMed_all` (this is our version of PubMed with all paragraphs), `PubMed` (this is MedRAG's original version of PubMed, which only has abstracts), `Textbooks,` `StatPearls` and `Wikipedia`. The generated bottleneck will be saved to `./data/bottlenecks/<modality>_<corpus>_<number_of_concepts>.txt`.
 
 **Annotate concepts:** You can annotate clinical reports for each concept in the bottleneck by running the following command:
 ```bash
@@ -105,7 +105,7 @@ python annotate_question.py \
     --number_of_reports <NUMBER OF REPORTS TO ANNOTATE> \
     --openai_key <OPENAI API> \
 ```
-The default LLM for annotation if Flan-T5-XXL, you can change it to GPT-4 by setting `--annotator gpt4` (warning: this may cost a lot of money). The default number of reports to annotate is 1000. The annotated reports will be saved to `./data/concept_annotation_<modality>/annotations_<annotator>`.
+The default LLM for annotation is [Flan-T5-XXL](https://huggingface.co/google/flan-t5-xxl). You can change it to GPT-4 by setting `--annotator gpt4` (warning: this may cost a lot of money). The default number of reports to annotate is 1000. The annotated reports will be saved to `./data/concept_annotation_<modality>/annotations_<annotator>/`.
 
 
 ## Train Grounding Functions
