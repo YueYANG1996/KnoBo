@@ -29,13 +29,13 @@ We release the two CLIP models we trained for X-ray and Skin Lesion images on hu
 ## Installation
 After cloning the repo, you can install the required dependencies and download the data by running the following commands:
 ```bash
-git clone https://github.com/YueYANG1996/KnoBo.git
-cd KnoBo
+git clone https://github.com/YueYANG1996/KnowBo.git
+cd KnowBo
 sh setup.sh
 ```
 
 ## Quick Start
-To get the results of KnoBo on X-ray datasets, you can run the following command:
+To get the results of KnowBo on X-ray datasets, you can run the following command:
 ```bash
 python modules/cbm.py \
     --mode binary \
@@ -57,7 +57,7 @@ The output will be saved to `./data/results/`. You can change the `--modality` t
   - `data/results/`: Contains the results of all experiments.
 
 * `modules/`: Contains the scripts for all experiments.
-  - [`modules/cbm.py`](modules/cbm.py): Contains the script for the running linear-based models, including KnoBo, linear probing, and PCBM.
+  - [`modules/cbm.py`](modules/cbm.py): Contains the script for the running linear-based models, including KnowBo, linear probing, and PCBM.
   - [`modules/extract_features.py`](modules/extract_features.py): Contains the script for extracting image features using different models.
   - [`modules/train_grounding.py`](modules/train_grounding.py): Contains the script for training the grounding functions for each concept in the bottleneck.
   - [`modules/end2end.py`](modules/end2end.py) : Contains the script for training the end-to-end model, including ViT and DenseNet.
@@ -74,7 +74,7 @@ python modules/extract_features.py \
     --model_name <NAME OF THE MODEL> \
     --image_dir <PATH TO THE IMAGE DIRECTORY> \
 ```
-The supported models are listed [here](https://github.com/YueYANG1996/KnoBo/blob/e3e3171b74b6c8f42046676aa6c6ae21a034deba/modules/extract_features.py#L141). We provide a bash script [`extract_features.sh`](extract_features.sh) to extract features for all datasets using the two CLIP models we trained.
+The supported models are listed [here](https://github.com/YueYANG1996/KnowBo/blob/e3e3171b74b6c8f42046676aa6c6ae21a034deba/modules/extract_features.py#L141). We provide a bash script [`extract_features.sh`](extract_features.sh) to extract features for all datasets using the two CLIP models we trained.
 
 
 ## Generate Bottlenecks from Medical Documents
