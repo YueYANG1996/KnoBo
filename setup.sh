@@ -1,6 +1,6 @@
 # Install environment for KnoBo
-conda create --name knobo python=3.10 -y
-conda activate knobo
+conda create --name knowbo python=3.10 -y
+conda activate knowbo
 pip install -r requirements.txt
 
 # download features
